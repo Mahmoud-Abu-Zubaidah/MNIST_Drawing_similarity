@@ -25,3 +25,6 @@ Finding similarity between two images is a complex task that requires a deep und
 ![image](https://github.com/Mahmoud-Abu-Zubaidah/MNIST_Drawing_similarity/blob/main/images/2.PNG)
 ![image](https://github.com/Mahmoud-Abu-Zubaidah/MNIST_Drawing_similarity/blob/main/images/3.PNG)
 ![image](https://github.com/Mahmoud-Abu-Zubaidah/MNIST_Drawing_similarity/blob/main/images/4.PNG)
+
+
+* [Application on HuggingFace.](https://huggingface.co/spaces/M7-Equalizer/Number_Drawing)
