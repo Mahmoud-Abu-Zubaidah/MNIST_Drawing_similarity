@@ -28,3 +28,8 @@ Finding similarity between two images is a complex task that requires a deep und
 
 
 * [Application on HuggingFace.](https://huggingface.co/spaces/M7-Equalizer/Number_Drawing)
+------
+## Another application that is similar to the privious one is to draw the showen number.  It contains one drawing board and one target image. You have to draw it.
+
+* [Application on HuggingFace.](https://huggingface.co/spaces/M7-Equalizer/DrowTheNumber)
+
