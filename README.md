@@ -1,4 +1,4 @@
-# Drowing Similarity.
+# Drawing Similarity.
 
 
 Finding similarity between two images is a complex task that requires a deep understanding of their underlying structures, rather than merely comparing their color distributions. This repository aims to address this challenge by employing a deep learning model capable of detecting subtle changes and differences in images, enabling accurate similarity analysis.
